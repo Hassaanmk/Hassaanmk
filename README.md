@@ -8,7 +8,25 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate AI enthusiast and researcher from pakistan </h3>
+<h3 align="center">An AI enthusiast and researcher from pakistan </h3>
+
+
+
+<div allign="centre">
+
+  **About Me**
+  
+- 🎓 Junior Data Scientist at Additech-Sim, optimizing shaft-hub connections.
+  
+- 📚 Final Year Student working on a **Navigation Bot using SLAM**.
+  
+- 🏆 Published research paper on **Reinforcement Learning for Shaft Hub Connection** in SCAP 2024.
+  
+- 🔬 Research Assistant at MBZUAI under **Dr. Zhiqiang Shen**, focusing on **Knowledge retrieval and hallucination reduction from LLMs**.
+  
+- 💡 Passionate about **AI, Robotics, and Deep Learning**
+
+</div>
 
 <br>
 
