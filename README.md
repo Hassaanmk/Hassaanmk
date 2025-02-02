@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-<h3 align="center">An AI enthusiast and researcher from pakistan </h3>
+<h3 align="center">An AI enthusiast and researcher from Pakistan </h3>
 
 
 
