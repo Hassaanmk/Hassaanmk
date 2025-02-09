@@ -16,9 +16,9 @@
 
   **About Me**
   
-- 🎓 Junior Data Scientist at Additech-Sim, optimizing shaft-hub connections.
+-  Machine Learning researcher at Additech-Sim, project lead.
   
-- 📚 Final Year Student working on a **Navigation Bot using SLAM**.
+-  Final Year Student Electrical engineering student working on a **Autonomous SLAM-Based interactive Bot**.
   
 - 🏆 Published research paper on **Reinforcement Learning for Shaft Hub Connection** in SCAP 2024.
   
