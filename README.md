@@ -16,15 +16,19 @@
 
   **About Me**
   
--  Machine Learning researcher at Additech-Sim, project lead.
+- AI and NLP Intern at DOAZ - AI company revoutionalizing construction industry.
+
+- 🔬 Research Assistant at MBZUAI in VILA-LAB under **Dr. Zhiqiang Shen**.
   
--  Final Year Student Electrical engineering student working on a **Autonomous SLAM-Based interactive Bot**.
+-  Published **DRAG: Distilling RAG for SLMs from LLMs, framework published in ACL-Main 2025**. Available at: https://arxiv.org/abs/2506.01954
   
-- 🏆 Published research paper on **Reinforcement Learning for Shaft Hub Connection** in SCAP 2024.
+-  Ex- Machine Learning researcher at Additech-Sim, project lead.
+
+-  🏆 Published research paper on **Reinforcement Learning for Shaft Hub Connection** in SCAP 2024.
   
-- 🔬 Research Assistant at MBZUAI under **Dr. Zhiqiang Shen**, focusing on **Knowledge retrieval and hallucination reduction from LLMs**.
-  
-- 💡 Passionate about **AI, Robotics, and Deep Learning**
+- Electrical engineering graduate from National University Of Sciences and Technology, Batch 2021-2025. Worked on **Autonomous SLAM-Based interactive Bot** as FYP.
+   
+- 💡 Passionate about **NLP, Robotics, and Deep Learning**
 
 </div>
 
