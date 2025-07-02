@@ -24,7 +24,7 @@
   
 -  Ex- Machine Learning researcher at Additech-Sim, project lead.
 
--  🏆 Published research paper on **Reinforcement Learning for Shaft Hub Connection** in SCAP 2024.
+- Published research paper on **Reinforcement Learning for Shaft Hub Connection** in SCAP 2024, available at: https://link.springer.com/chapter/10.1007/978-3-031-88831-1_26
   
 - Electrical engineering graduate from National University Of Sciences and Technology, Batch 2021-2025. Worked on **Autonomous SLAM-Based interactive Bot** as FYP.
    
