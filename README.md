@@ -15,10 +15,12 @@
 <div allign="centre">
 
   **About Me**
-  
-- AI and NLP Intern at DOAZ - AI company revoutionalizing construction industry.
 
-- 🔬 Research Assistant at MBZUAI in VILA-LAB under **Dr. Zhiqiang Shen**.
+- Machine learning Engineer at Bytecorp
+  
+- Ex-AI Engineer at DOAZ - AI company revoutionalizing construction industry.
+
+- Worked as an Research Assistant at MBZUAI in VILA-LAB under **Dr. Zhiqiang Shen**.
   
 -  Published **DRAG: Distilling RAG for SLMs from LLMs, framework published in ACL-Main 2025**. Available at: https://arxiv.org/abs/2506.01954
   
@@ -28,7 +30,7 @@
   
 - Electrical engineering graduate from National University Of Sciences and Technology, Batch 2021-2025. Worked on **Autonomous SLAM-Based interactive Bot** as FYP.
    
-- 💡 Passionate about **NLP, Robotics, and Deep Learning**
+- 💡 Passionate about **NLP, Vision AI and Robotics**
 
 </div>
 
